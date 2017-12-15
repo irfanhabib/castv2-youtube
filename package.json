@@ -18,9 +18,9 @@
   "author": "Irfan Habib",
   "license": "MIT",
   "dependencies": {
-    "Q": "0.0.1",
     "castv2-client": "0.0.6",
     "lodash": "^4.17.4",
-    "needle": "^1.4.5"
+    "needle": "^1.6.0",
+    "q": "^1.5.1"
   }
 }
